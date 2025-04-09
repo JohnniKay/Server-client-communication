@@ -1,0 +1,6 @@
+SERVER LOG
+Client Registration: $register Johnni
+Client Message: Hello
+Client Registration: $register Sarah
+Client Message: Hello Johnni
+Client Message: Hello Sarah

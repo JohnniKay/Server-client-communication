@@ -1,0 +1,17 @@
+﻿  Beal.Johnni.Phase_1.cpp
+  Client.cpp
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Client.cpp(106,15): warning C4305: 'initializing': truncation from 'int' to 'uint8_t'
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Client.cpp(106,17): warning C4309: 'initializing': truncation of constant value
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Client.cpp(130,52): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Client.cpp(130,27): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  Generating Code...
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Client.cpp(412): warning C4715: 'Client::init': not all control paths return a value
+  Server.cpp
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(155,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(338,25): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(338,25): warning C4244:         with
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(338,25): warning C4244:         [
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(338,25): warning C4244:             _Ty=SOCKET
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(338,25): warning C4244:         ]
+C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\Beal.Johnni.Phase_1\Server.cpp(531,22): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  Beal.Johnni.Phase_1.vcxproj -> C:\Users\johnn\Downloads\Beal.Johnni.Phase2\Beal.Johnni.Phase 2\Beal.Johnni.Phase_2\x64\Debug\Beal.Johnni.Phase_1.exe

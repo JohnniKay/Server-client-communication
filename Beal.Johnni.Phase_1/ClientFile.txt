@@ -1,0 +1,7 @@
+~CLIENT LOG~
+ient Registration: $register Bella
+Client Message: I wonder how good this wýýýý\
+Client Message: Will it do another copy?ýýýý\
+Client Message: How will the characters ýýýý\
+Command: $getlog
+END
