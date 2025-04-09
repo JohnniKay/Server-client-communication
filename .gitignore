@@ -1,0 +1,17 @@
+# Compiled files and build directories
+/bin/
+/obj/
+*.exe
+*.dll
+*.out
+*.app
+
+# Debug or release folders
+/Debug/
+/Release/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
