@@ -7,7 +7,7 @@
 *.app
 
 # Debug or release folders
-/Debug/
+/x64/Debug/
 /Release/
 
 # User-specific files
