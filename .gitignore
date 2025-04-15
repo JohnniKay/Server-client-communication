@@ -1,17 +1,10 @@
-# Compiled files and build directories
-/bin/
-/obj/
-*.exe
-*.dll
-*.out
-*.app
-
-# Debug or release folders
-/x64/Debug/
-/Release/
-
-# User-specific files
-*.suo
+bin/
+obj/
 *.user
-*.userosscache
-*.sln.docstates
+*.suo
+*.cache
+*.log
+.vs/
+*.db
+*.sqlite
+*.pdb

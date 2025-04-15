@@ -187,7 +187,7 @@ int Server::init()
 					}
 					else
 					{
-						printf("\nDEBUG: Client was connected...\n");                                           //Client was connected						
+						printf("\nDEBUG: Client was connected...\n");                                           //Client was connected			
 					}
 
 					uint8_t size = 0;

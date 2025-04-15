@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\",
+  "WorkspaceRootPath": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|solutionrelative:Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|solutionrelative:Beal.Johnni.Phase_1\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|solutionrelative:Beal.Johnni.Phase_1\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|solutionrelative:Beal.Johnni.Phase_1\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC82F5AE-FE13-4B08-8C47-0530857FA212}|Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.vcxproj|solutionrelative:Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Server.cpp",
-              "DocumentMoniker": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Server.cpp",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Server.cpp",
               "RelativeDocumentMoniker": "Beal.Johnni.Phase_1\\Server.cpp",
-              "ToolTip": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Server.cpp",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Server.cpp",
               "RelativeToolTip": "Beal.Johnni.Phase_1\\Server.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEICAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAJYAAAAAAAAAAAArwOMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-08T20:30:54.434Z",
               "EditorCaption": ""
@@ -45,24 +45,24 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Client.cpp",
-              "DocumentMoniker": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Client.cpp",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Client.cpp",
               "RelativeDocumentMoniker": "Beal.Johnni.Phase_1\\Client.cpp",
-              "ToolTip": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Client.cpp",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Client.cpp",
               "RelativeToolTip": "Beal.Johnni.Phase_1\\Client.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIBAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAMIBAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-08T20:30:54.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Beal.Johnni.Phase_1.cpp",
-              "DocumentMoniker": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp",
+              "DocumentMoniker": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp",
               "RelativeDocumentMoniker": "Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp",
-              "ToolTip": "C:\\Users\\johnn\\Downloads\\Beal.Johnni.Phase2\\Beal.Johnni.Phase 2\\Beal.Johnni.Phase_2\\Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp",
+              "ToolTip": "C:\\Users\\johnn\\Desktop\\Portfolio Projects\\Server-Client-Communication\\Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp",
               "RelativeToolTip": "Beal.Johnni.Phase_1\\Beal.Johnni.Phase_1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-08T20:30:54.553Z",
               "EditorCaption": ""
